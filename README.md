@@ -393,7 +393,7 @@ Feel free to use, modify, and share this project with proper attribution.
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/kumkum-lohiya/*
 - 💻 GitHub: *https://github.com/Kumkum-lohiya/*
-- 📧 Email: *kumkumlohiya20@gmail.com
+- 📧 Email: *kumkumlohiya20@gmail.com*
 *
 
 ---
