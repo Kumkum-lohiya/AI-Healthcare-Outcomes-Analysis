@@ -250,3 +250,158 @@ Healthcare Decision Support
 - Data-driven insights can help healthcare organizations identify high-impact participant groups for personalized interventions.
 
 ---
+
+# 📁 Repository Structure
+
+```text
+AI-Healthcare-Outcomes-Analysis
+│
+├── 📓 AI_Healthcare_Outcomes_Analysis.ipynb
+├── 📊 ai_health_impact_dirty_25k.csv
+├── 📄 README.md
+├── 📄 requirements.txt
+├── 📄 LICENSE
+│
+└── 📁 Images
+      ├── age_group_improvement.png
+      ├── ai_usage_vs_improvement.png
+      ├── ai_tool_improvement.png
+      ├── exercise_effectiveness.png
+      ├── ai_usage_exercise_heatmap.png
+      ├── participant_segment_violin.png
+      └── business_profiles.png
+```
+
+---
+
+# 🚀 Getting Started
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/your-username/AI-Healthcare-Outcomes-Analysis.git
+```
+
+---
+
+## Navigate to the Project
+
+```bash
+cd AI-Healthcare-Outcomes-Analysis
+```
+
+---
+
+## Install Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```
+AI_Healthcare_Outcomes_Analysis.ipynb
+```
+
+Run all cells to reproduce the complete analysis.
+
+---
+
+# 📦 Requirements
+
+The project uses the following Python libraries:
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+# 🎯 Skills Demonstrated
+
+### Data Analysis
+
+- Data Cleaning
+- Data Preprocessing
+- Feature Engineering
+- Missing Value Handling
+- Duplicate Record Removal
+- Exploratory Data Analysis (EDA)
+
+### Data Visualization
+
+- Bar Charts
+- Horizontal Bar Charts
+- Pie Charts
+- Scatter Plots
+- Regression Plots
+- Heatmaps
+- Violin Plots
+- Box Plots
+- Bubble Plots
+- Stem Plots
+
+### Business Analytics
+
+- Healthcare Data Analysis
+- Trend Identification
+- Correlation Analysis
+- Participant Segmentation
+- Business Insight Generation
+- Data-Driven Decision Making
+
+---
+
+# 🔮 Future Enhancements
+
+- Develop Machine Learning models for health outcome prediction.
+- Build an interactive Power BI dashboard.
+- Deploy the project as a Streamlit web application.
+- Integrate real-time healthcare datasets.
+- Create personalized AI healthcare recommendation systems.
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License**.
+
+Feel free to use, modify, and share this project with proper attribution.
+
+---
+
+# 🙋‍♂️ Author
+
+**Kumkum Lohiya**
+
+🎓 B.Tech Computer Science Engineering
+
+💼 Aspiring Data Analyst
+
+### Connect With Me
+
+- 💼 LinkedIn: *https://www.linkedin.com/in/kumkum-lohiya/*
+- 💻 GitHub: *https://github.com/Kumkum-lohiya/*
+- 📧 Email: *kumkumlohiya20@gmail.com
+*
+
+---
+
+<div align="center">
+
+## ⭐ If you found this project useful, don't forget to Star this repository!
+
+Thank you for visiting my project! 😊
+
+</div>
