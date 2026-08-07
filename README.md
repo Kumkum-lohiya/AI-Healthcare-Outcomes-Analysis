@@ -1,2 +1,139 @@
-# AI-Healthcare-Outcomes-Analysis
-A comprehensive Healthcare Data Analysis project using Python, Pandas, NumPy, Matplotlib and Seaborn.
+<div align="center">
+
+# 🏥 AI Healthcare Outcomes Analysis
+
+### Analysing the Impact of Artificial Intelligence on Health Outcomes Using Python
+
+<p>
+An end-to-end Healthcare Data Analytics project that explores how Artificial Intelligence influences health improvement, patient satisfaction, exercise effectiveness, BMI categories, and healthcare outcomes through data cleaning, exploratory data analysis, and insightful visualizations.
+</p>
+
+<p>
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)
+
+</p>
+
+</div>
+
+---
+
+# 📌 Project Overview
+
+Artificial Intelligence (AI) is transforming the healthcare industry by enabling personalized care, improving diagnosis, and supporting better clinical decision-making.
+
+This project analyzes a real-world healthcare dataset to understand how AI-based healthcare applications influence patient health improvement. Using Python-based data analysis techniques, the project performs data cleaning, exploratory data analysis (EDA), and visualization to discover meaningful healthcare insights.
+
+The analysis focuses on identifying relationships between AI usage, exercise habits, BMI, age groups, satisfaction levels, chronic conditions, and overall health improvement.
+
+---
+
+# 🎯 Objectives
+
+- Analyze the impact of AI healthcare applications on patient health improvement.
+- Perform comprehensive data cleaning and preprocessing.
+- Explore healthcare trends using Exploratory Data Analysis (EDA).
+- Generate meaningful business insights through data visualization.
+- Identify participant groups that benefit the most from AI-assisted healthcare.
+- Support healthcare decision-making using data-driven analysis.
+
+---
+
+# 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Programming Language | Python |
+| Development Environment | Jupyter Notebook |
+| Data Manipulation | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn |
+| Analysis | Exploratory Data Analysis (EDA), Statistical Analysis |
+
+---
+
+# 📂 Dataset Information
+
+The healthcare dataset contains information related to participants using AI-powered healthcare applications.
+
+### Key Features
+
+- Age
+- Gender
+- BMI
+- Exercise Level
+- Chronic Condition
+- AI Tool Type
+- AI Usage Hours
+- AI Usage Level
+- Health Score Before AI
+- Health Score After AI
+- Improvement
+- Improvement Per AI Hour
+- Satisfaction Level
+- Participant Profile
+- Risk Category
+
+---
+
+# ✨ Project Features
+
+- Data Cleaning & Preprocessing
+- Missing Value Handling
+- Duplicate Record Removal
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Business Insight Generation
+- Professional Data Visualization
+- Healthcare Trend Analysis
+- Participant Segmentation
+
+---
+
+# 📊 Visualizations Used
+
+This project includes multiple visualization techniques:
+
+- 📊 Bar Chart
+- 📈 Horizontal Bar Chart
+- 🥧 Pie Chart
+- 🔵 Scatter Plot
+- 📉 Regression Plot
+- 🔥 Heatmap
+- 🎻 Violin Plot
+- 📦 Box Plot
+- 🫧 Bubble Plot
+- 📉 Stem Plot
+
+---
+
+# 📋 Business Questions Solved
+
+This project answers several business-oriented healthcare questions, including:
+
+1. Which Age Group gains the highest health improvement after using AI health applications?
+2. Do participants who spend more time on AI health apps achieve significantly better health outcomes?
+3. Which AI Tool Type delivers the highest average health improvement?
+4. Does exercise amplify the effectiveness of AI health applications?
+5. Which Age Group shows the highest adoption of AI health applications?
+6. Which BMI category benefits the most from AI-driven healthcare?
+7. How does satisfaction vary with health improvement?
+8. Do participants with chronic conditions experience greater improvement than healthy participants?
+9. Which combination of AI Usage Level and Exercise Level produces the highest health improvement?
+10. Which age groups are least satisfied despite using AI health applications?
+11. Are participants with higher BMI spending more time on AI health applications?
+12. Which AI Tool Type has the highest participant share?
+13. Which participant segment receives the highest return from AI healthcare?
+14. What factors are most strongly associated with health improvement?
+15. Which participant profiles should healthcare companies target for maximum AI impact?
+16. Can participants be grouped into distinct health behavior segments based on AI usage and lifestyle?
+17. Which participant groups have high AI usage but low health improvement?
+18. AI Usage vs Health Improvement Across Participant Groups.
+19. Comparative analysis of AI usage and health improvement patterns.
+
+---
