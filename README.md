@@ -137,3 +137,116 @@ This project answers several business-oriented healthcare questions, including:
 19. Comparative analysis of AI usage and health improvement patterns.
 
 ---
+
+# 📊 Project Workflow
+
+```text
+Healthcare Dataset
+        │
+        ▼
+Data Understanding
+        │
+        ▼
+Data Cleaning & Preprocessing
+        │
+        ▼
+Exploratory Data Analysis (EDA)
+        │
+        ▼
+Statistical Analysis
+        │
+        ▼
+Data Visualization
+        │
+        ▼
+Business Insights
+        │
+        ▼
+Healthcare Decision Support
+```
+
+---
+
+# 📸 Project Preview
+
+## 1️⃣ Health Improvement Across Age Groups
+
+<p align="center">
+<img src="Images/age_group_improvement.png" width="800">
+</p>
+
+> Compares the average health improvement across different age groups to identify which age category benefits the most from AI-assisted healthcare.
+
+---
+
+## 2️⃣ AI Usage Hours vs Health Improvement
+
+<p align="center">
+<img src="Images/ai_usage_vs_improvement.png" width="800">
+</p>
+
+> Regression analysis showing the relationship between AI application usage time and health improvement.
+
+---
+
+## 3️⃣ Average Improvement by AI Tool Type
+
+<p align="center">
+<img src="Images/ai_tool_improvement.png" width="800">
+</p>
+
+> Highlights which AI healthcare tool provides the highest average health improvement.
+
+---
+
+## 4️⃣ Exercise Level vs AI Effectiveness
+
+<p align="center">
+<img src="Images/exercise_effectiveness.png" width="800">
+</p>
+
+> Bubble Plot illustrating how exercise habits influence the effectiveness of AI healthcare applications.
+
+---
+
+## 5️⃣ AI Usage Level & Exercise Level Heatmap
+
+<p align="center">
+<img src="Images/ai_usage_exercise_heatmap.png" width="800">
+</p>
+
+> Heatmap showing which combination of AI usage and exercise level achieves the greatest health improvement.
+
+---
+
+## 6️⃣ Participant Segment Analysis
+
+<p align="center">
+<img src="Images/participant_segment_violin.png" width="800">
+</p>
+
+> Violin Plot comparing the distribution of health improvement per AI usage hour across participant segments.
+
+---
+
+## 7️⃣ High-Impact Participant Profiles
+
+<p align="center">
+<img src="Images/business_profiles.png" width="800">
+</p>
+
+> Identifies participant profiles that receive the maximum benefit from AI-driven healthcare, helping organizations target the most impactful user groups.
+
+---
+
+# 💡 Key Insights
+
+- AI healthcare applications contribute positively to overall health improvement across participants.
+- Higher AI usage is generally associated with better health outcomes.
+- Exercise enhances the effectiveness of AI-assisted healthcare applications.
+- Certain AI tool types consistently deliver higher average health improvement.
+- Participant demographics such as age and BMI influence AI healthcare effectiveness.
+- Correlation analysis reveals strong relationships between AI usage, health scores, and improvement.
+- Data-driven insights can help healthcare organizations identify high-impact participant groups for personalized interventions.
+
+---
